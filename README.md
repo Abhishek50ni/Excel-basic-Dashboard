@@ -27,7 +27,7 @@ This Excel dashboard provides a visual representation of sales performance data,
 
 ## Image
 
-![Basic Excel Dashboard](Dashboard1.png)
+![Basic Excel Dashboard](dashboard1.png)
 
 ## Usage
 
